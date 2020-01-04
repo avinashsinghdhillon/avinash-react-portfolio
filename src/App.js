@@ -6,27 +6,19 @@ import Articles from './modules/Articles';
 import Portfolio from './modules/Portfolio';
 import './App.css';
 
-function App() {
+export const App = () => {
   return (
-    <div>
-      <BrowserRouter>
-        <Menu />
+    <BrowserRouter>
+      <Menu />
+      <div className="contentContainer">
         <Switch>
-          <Route exact path="/">
-            <About />
-          </Route>
-          <Route path="/about">
-            <About />
-          </Route>
-          <Route path="/articles">
-            <Articles />
-          </Route>
-          <Route path="/portfolio">
-            <Portfolio />
-          </Route>
+          <Route exact path="/" component={About} />
+          <Route path="/about" component={About} />
+          <Route path="/articles" component={Articles} />
+          <Route path="/portfolio" component={Portfolio} />
         </Switch>
-      </BrowserRouter>
-    </div>
+      </div>
+    </BrowserRouter>
   );
 }
 

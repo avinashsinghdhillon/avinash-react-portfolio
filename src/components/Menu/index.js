@@ -4,24 +4,28 @@ import './Menu.css';
 
 export const Menu = () => {
   return (
-    <div className="topRibbon">
-      <div className="name">
-        <strong>Avinash Singh</strong> - Full Stack Web Developer
-      </div>
-      <div className="linkContainer">
+    <div className="menuContainer">
+      <div className="topRibbon">
+        <div className="name">
+          <strong>Avinash Singh</strong>
+          <span className="desc"> - Full Stack Web Developer</span>
+        </div>
 
-        <Link to='/about'>
-          About
+        <div className="linkContainer">
+
+          <Link to='/about'>
+            About
         </Link>
 
-        <Link to='/articles'>
-          Articles
+          <Link to='/articles'>
+            Articles
         </Link>
 
-        <Link to='/portfolio'>
-          Portfolio
+          <Link to='/portfolio'>
+            Portfolio
         </Link>
 
+        </div>
       </div>
     </div>
   )

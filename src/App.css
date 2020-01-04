@@ -1,5 +1,23 @@
 body {
+  background-color: rgba(25, 25, 25, 0.932);
+  background-image: url("./assets/images/ZXSpectrum16x9.jpg");
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.contentContainer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
 
+.componentContainer {
+  min-width: 60%;
+  max-width: 80%;
+  min-height: 600px;
+  background-color: #dbd66e9f;
+  margin: 10px 0 0 0;
+}

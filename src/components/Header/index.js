@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import './Header.css';
 
 export const Header = (props) => {
 	const [headerText, setHeaderText] = useState();
@@ -8,9 +9,9 @@ export const Header = (props) => {
 
 	return (
 		<div>
-			<h4>
+			<p className="title">
 				{headerText}
-			</h4>
+			</p>
 		</div>
 	)
 }
