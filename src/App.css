@@ -15,9 +15,8 @@ body {
 }
 
 .componentContainer {
-  min-width: 60%;
-  max-width: 80%;
+  width: 65%;
   min-height: 600px;
-  background-color: #dbd66e70;
+  background-color: #dbd66e8f;
   margin: 10px 0 0 0;
 }

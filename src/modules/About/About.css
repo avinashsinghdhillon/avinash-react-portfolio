@@ -1,8 +1,23 @@
-img {
-  min-width: 120px;
-  max-width: 200px;
+
+.aboutContainer {
+  position: relative;
+  margin: 10px;
 }
 
 .picContainer {
-  margin: 10px 0 0 0;
+  float: left;
+  width: 13vw;
+  min-width: 200px;
+  margin: 10px 20px 0 0;
+
+}
+
+.pic {
+  width: 100%;
+}
+
+.contentText {
+  color: rgb(1, 43, 1);
+  font-size: 1.3em;
+  line-height: 2em;
 }

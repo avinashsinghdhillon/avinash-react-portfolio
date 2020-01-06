@@ -4,6 +4,7 @@ import Menu from './components/Menu';
 import About from './modules/About';
 import Articles from './modules/Articles';
 import Portfolio from './modules/Portfolio';
+import Contact from './modules/Contact';
 import './App.css';
 
 export const App = () => {
@@ -15,6 +16,7 @@ export const App = () => {
           <Route exact path="/" component={About} />
           <Route path="/about" component={About} />
           <Route path="/articles" component={Articles} />
+          <Route path="/contact" component={Contact} />
           <Route path="/portfolio" component={Portfolio} />
         </Switch>
       </div>

@@ -13,17 +13,21 @@ export const Menu = () => {
 
         <div className="linkContainer">
 
-          <Link to='/about'>
-            About
-        </Link>
+        <Link to='/Contact'>
+            Contact
+          </Link>
 
           <Link to='/articles'>
             Articles
-        </Link>
+          </Link>
 
           <Link to='/portfolio'>
             Portfolio
-        </Link>
+          </Link>
+
+          <Link to='/about'>
+            About
+          </Link>
 
         </div>
       </div>
