@@ -18,6 +18,7 @@ export const App = () => {
           <Route path="/articles" component={Articles} />
           <Route path="/contact" component={Contact} />
           <Route path="/portfolio" component={Portfolio} />
+          <Route path="/" component={About} />
         </Switch>
       </div>
     </BrowserRouter>
