@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/avinash-react-portfolio/about/static/css/main.7379eb86.chunk.css",
-    "main.js": "/avinash-react-portfolio/about/static/js/main.473f8f55.chunk.js",
-    "main.js.map": "/avinash-react-portfolio/about/static/js/main.473f8f55.chunk.js.map",
-    "runtime-main.js": "/avinash-react-portfolio/about/static/js/runtime-main.38f90d96.js",
-    "runtime-main.js.map": "/avinash-react-portfolio/about/static/js/runtime-main.38f90d96.js.map",
-    "static/js/2.6990802f.chunk.js": "/avinash-react-portfolio/about/static/js/2.6990802f.chunk.js",
-    "static/js/2.6990802f.chunk.js.map": "/avinash-react-portfolio/about/static/js/2.6990802f.chunk.js.map",
-    "index.html": "/avinash-react-portfolio/about/index.html",
-    "precache-manifest.e5f77e4661a21f175eea330275efdec7.js": "/avinash-react-portfolio/about/precache-manifest.e5f77e4661a21f175eea330275efdec7.js",
-    "service-worker.js": "/avinash-react-portfolio/about/service-worker.js",
-    "static/css/main.7379eb86.chunk.css.map": "/avinash-react-portfolio/about/static/css/main.7379eb86.chunk.css.map",
-    "static/js/2.6990802f.chunk.js.LICENSE": "/avinash-react-portfolio/about/static/js/2.6990802f.chunk.js.LICENSE",
-    "static/media/AviPic.png": "/avinash-react-portfolio/about/static/media/AviPic.199968d7.png",
-    "static/media/App.css": "/avinash-react-portfolio/about/static/media/ZXSpectrum16x9.1e9f0731.jpg",
-    "static/media/bamazon.png": "/avinash-react-portfolio/about/static/media/bamazon.75282357.png",
-    "static/media/endemicDoctor.gif": "/avinash-react-portfolio/about/static/media/endemicDoctor.bb358355.gif",
-    "static/media/liri.png": "/avinash-react-portfolio/about/static/media/liri.f2632d4a.png",
-    "static/media/rpsMultiplayer.jpg": "/avinash-react-portfolio/about/static/media/rpsMultiplayer.27963220.jpg",
-    "static/media/starWarsRPG.jpeg": "/avinash-react-portfolio/about/static/media/starWarsRPG.eb8b0eb1.jpeg",
-    "static/media/triviaGame.jpg": "/avinash-react-portfolio/about/static/media/triviaGame.77064555.jpg"
+    "main.css": "/avinash-react-portfolio/static/css/main.df9cbc8f.chunk.css",
+    "main.js": "/avinash-react-portfolio/static/js/main.49175fd0.chunk.js",
+    "main.js.map": "/avinash-react-portfolio/static/js/main.49175fd0.chunk.js.map",
+    "runtime-main.js": "/avinash-react-portfolio/static/js/runtime-main.f8f9db13.js",
+    "runtime-main.js.map": "/avinash-react-portfolio/static/js/runtime-main.f8f9db13.js.map",
+    "static/js/2.6990802f.chunk.js": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js",
+    "static/js/2.6990802f.chunk.js.map": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js.map",
+    "index.html": "/avinash-react-portfolio/index.html",
+    "precache-manifest.eae273a657a026101274e891b4dd25f3.js": "/avinash-react-portfolio/precache-manifest.eae273a657a026101274e891b4dd25f3.js",
+    "service-worker.js": "/avinash-react-portfolio/service-worker.js",
+    "static/css/main.df9cbc8f.chunk.css.map": "/avinash-react-portfolio/static/css/main.df9cbc8f.chunk.css.map",
+    "static/js/2.6990802f.chunk.js.LICENSE": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js.LICENSE",
+    "static/media/AviPic.png": "/avinash-react-portfolio/static/media/AviPic.199968d7.png",
+    "static/media/App.css": "/avinash-react-portfolio/static/media/ZXSpectrum16x9.1e9f0731.jpg",
+    "static/media/bamazon.png": "/avinash-react-portfolio/static/media/bamazon.75282357.png",
+    "static/media/endemicDoctor.gif": "/avinash-react-portfolio/static/media/endemicDoctor.bb358355.gif",
+    "static/media/liri.png": "/avinash-react-portfolio/static/media/liri.f2632d4a.png",
+    "static/media/rpsMultiplayer.jpg": "/avinash-react-portfolio/static/media/rpsMultiplayer.27963220.jpg",
+    "static/media/starWarsRPG.jpeg": "/avinash-react-portfolio/static/media/starWarsRPG.eb8b0eb1.jpeg",
+    "static/media/triviaGame.jpg": "/avinash-react-portfolio/static/media/triviaGame.77064555.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.38f90d96.js",
+    "static/js/runtime-main.f8f9db13.js",
     "static/js/2.6990802f.chunk.js",
-    "static/css/main.7379eb86.chunk.css",
-    "static/js/main.473f8f55.chunk.js"
+    "static/css/main.df9cbc8f.chunk.css",
+    "static/js/main.49175fd0.chunk.js"
   ]
 }
