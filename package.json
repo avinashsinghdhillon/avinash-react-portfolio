@@ -2,7 +2,7 @@
   "name": "avinash-react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://avinashsinghdhillon.github.io/avinash-react-portfolio/about",
+  "homepage": "https://avinashsinghdhillon.github.io/avinash-react-portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
