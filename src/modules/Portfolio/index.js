@@ -10,6 +10,7 @@ import rpsPic from '../../assets/images/rpsMultiplayer.jpg';
 import triviaPic from '../../assets/images/triviaGame.jpg';
 import starWarsPic from '../../assets/images/starWarsRPG.jpeg';
 import hangmanPic from '../../assets/images/hangman.png';
+import memoryPic from '../../assets/images/MemoryGame.JPG';
 
 export const Portfolio = () => {
 	return (
@@ -26,7 +27,7 @@ export const Portfolio = () => {
             <a class="hexLink" target="blank" href="https://endemic-game-release.herokuapp.com/">
               <img class='img' src={endemicPic} alt="Endemic" />
               <h1 class="hexTitle">Endemic</h1>
-              <p class="hexText">Save the world from an endemic spread of diseases.</p>
+              <p class="hexText">Save the world from endemic diseases.</p>
             </a>
           </div>
         </li>
@@ -37,6 +38,16 @@ export const Portfolio = () => {
               <img class='img' src={triviaPic} alt="Trivia" />
               <h1 class="hexTitle">Trivia</h1>
               <p class="hexText">Challenge yourself in a trivia game.</p>
+            </a>
+          </div>
+        </li>
+        
+				<li class="hex">
+          <div class="hexIn" backgroundColor="brown">
+            <a class="hexLink" target="blank" href="https://avinashsinghdhillon.github.io/Memory-Test/">
+              <img class='img' src={memoryPic} alt="Memory Test"/>
+              <h1 class="hexTitle">Memory Test</h1>
+              <p class="hexText">Fun game to test your memory.</p>
             </a>
           </div>
         </li>
@@ -97,16 +108,6 @@ export const Portfolio = () => {
               <img class='img' src={ffPic} alt="FF" />
               <h1 class="hexTitle">Friend Finder</h1>
               <p class="hexText">Answer a brief survey to find your match.</p>
-            </a>
-          </div>
-        </li>
-
-				<li class="hex">
-          <div class="hexIn">
-            <a class="hexLink" target="blank" href="https://avinashsinghdhillon.github.io/RPS-Multiplayer/">
-              <img class='img' src={rpsPic} alt="RPS"/>
-              <h1 class="hexTitle">RPS-Multiplayer</h1>
-              <p class="hexText">Play Rock Paper Scissors with your friends.</p>
             </a>
           </div>
         </li>
