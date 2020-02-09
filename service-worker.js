@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/avinash-react-portfolio/precache-manifest.4db99ce3b07eac5aca4569d18f840e88.js"
+  "/avinash-react-portfolio/precache-manifest.6cada02a4b4858ebd70d8cd335e0bfe3.js"
 );
 
 self.addEventListener('message', (event) => {

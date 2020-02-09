@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/avinash-react-portfolio/static/css/main.fe84c0c8.chunk.css",
-    "main.js": "/avinash-react-portfolio/static/js/main.fdee9d7e.chunk.js",
-    "main.js.map": "/avinash-react-portfolio/static/js/main.fdee9d7e.chunk.js.map",
+    "main.js": "/avinash-react-portfolio/static/js/main.5a3f1737.chunk.js",
+    "main.js.map": "/avinash-react-portfolio/static/js/main.5a3f1737.chunk.js.map",
     "runtime-main.js": "/avinash-react-portfolio/static/js/runtime-main.f8f9db13.js",
     "runtime-main.js.map": "/avinash-react-portfolio/static/js/runtime-main.f8f9db13.js.map",
     "static/js/2.6990802f.chunk.js": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js",
     "static/js/2.6990802f.chunk.js.map": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js.map",
     "index.html": "/avinash-react-portfolio/index.html",
-    "precache-manifest.4db99ce3b07eac5aca4569d18f840e88.js": "/avinash-react-portfolio/precache-manifest.4db99ce3b07eac5aca4569d18f840e88.js",
+    "precache-manifest.6cada02a4b4858ebd70d8cd335e0bfe3.js": "/avinash-react-portfolio/precache-manifest.6cada02a4b4858ebd70d8cd335e0bfe3.js",
     "service-worker.js": "/avinash-react-portfolio/service-worker.js",
     "static/css/main.fe84c0c8.chunk.css.map": "/avinash-react-portfolio/static/css/main.fe84c0c8.chunk.css.map",
     "static/js/2.6990802f.chunk.js.LICENSE": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js.LICENSE",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.f8f9db13.js",
     "static/js/2.6990802f.chunk.js",
     "static/css/main.fe84c0c8.chunk.css",
-    "static/js/main.fdee9d7e.chunk.js"
+    "static/js/main.5a3f1737.chunk.js"
   ]
 }
