@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/avinash-react-portfolio/static/css/main.501f60de.chunk.css",
-    "main.js": "/avinash-react-portfolio/static/js/main.a9011715.chunk.js",
-    "main.js.map": "/avinash-react-portfolio/static/js/main.a9011715.chunk.js.map",
+    "main.css": "/avinash-react-portfolio/static/css/main.fe84c0c8.chunk.css",
+    "main.js": "/avinash-react-portfolio/static/js/main.fdee9d7e.chunk.js",
+    "main.js.map": "/avinash-react-portfolio/static/js/main.fdee9d7e.chunk.js.map",
     "runtime-main.js": "/avinash-react-portfolio/static/js/runtime-main.f8f9db13.js",
     "runtime-main.js.map": "/avinash-react-portfolio/static/js/runtime-main.f8f9db13.js.map",
     "static/js/2.6990802f.chunk.js": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js",
     "static/js/2.6990802f.chunk.js.map": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js.map",
     "index.html": "/avinash-react-portfolio/index.html",
-    "precache-manifest.4865f5a2fbf8520720da28c90a487875.js": "/avinash-react-portfolio/precache-manifest.4865f5a2fbf8520720da28c90a487875.js",
+    "precache-manifest.4db99ce3b07eac5aca4569d18f840e88.js": "/avinash-react-portfolio/precache-manifest.4db99ce3b07eac5aca4569d18f840e88.js",
     "service-worker.js": "/avinash-react-portfolio/service-worker.js",
-    "static/css/main.501f60de.chunk.css.map": "/avinash-react-portfolio/static/css/main.501f60de.chunk.css.map",
+    "static/css/main.fe84c0c8.chunk.css.map": "/avinash-react-portfolio/static/css/main.fe84c0c8.chunk.css.map",
     "static/js/2.6990802f.chunk.js.LICENSE": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js.LICENSE",
     "static/media/AviPic.png": "/avinash-react-portfolio/static/media/AviPic.199968d7.png",
     "static/media/MemoryGame.JPG": "/avinash-react-portfolio/static/media/MemoryGame.f8faa4bf.JPG",
@@ -18,14 +18,13 @@
     "static/media/bamazon.png": "/avinash-react-portfolio/static/media/bamazon.75282357.png",
     "static/media/endemicDoctor.gif": "/avinash-react-portfolio/static/media/endemicDoctor.bb358355.gif",
     "static/media/liri.png": "/avinash-react-portfolio/static/media/liri.f2632d4a.png",
-    "static/media/rpsMultiplayer.jpg": "/avinash-react-portfolio/static/media/rpsMultiplayer.27963220.jpg",
     "static/media/starWarsRPG.jpeg": "/avinash-react-portfolio/static/media/starWarsRPG.eb8b0eb1.jpeg",
     "static/media/triviaGame.jpg": "/avinash-react-portfolio/static/media/triviaGame.77064555.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f8f9db13.js",
     "static/js/2.6990802f.chunk.js",
-    "static/css/main.501f60de.chunk.css",
-    "static/js/main.a9011715.chunk.js"
+    "static/css/main.fe84c0c8.chunk.css",
+    "static/js/main.fdee9d7e.chunk.js"
   ]
 }

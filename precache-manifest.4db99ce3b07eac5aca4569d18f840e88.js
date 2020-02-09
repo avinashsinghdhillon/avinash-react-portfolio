@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2365ccaf4f0bb1547d309973f458e18",
+    "revision": "6c025cc41c968f42c8d5be131eb0bb92",
     "url": "/avinash-react-portfolio/index.html"
   },
   {
-    "revision": "66dabf5f0e3f84b7c3f8",
-    "url": "/avinash-react-portfolio/static/css/main.501f60de.chunk.css"
+    "revision": "bba47da409be00060984",
+    "url": "/avinash-react-portfolio/static/css/main.fe84c0c8.chunk.css"
   },
   {
     "revision": "f4ea1f065c9cacabb7a9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js.LICENSE"
   },
   {
-    "revision": "66dabf5f0e3f84b7c3f8",
-    "url": "/avinash-react-portfolio/static/js/main.a9011715.chunk.js"
+    "revision": "bba47da409be00060984",
+    "url": "/avinash-react-portfolio/static/js/main.fdee9d7e.chunk.js"
   },
   {
     "revision": "5bd47d0aae5f83636630",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f2632d4afae81840f1edd1fcb665ac02",
     "url": "/avinash-react-portfolio/static/media/liri.f2632d4a.png"
-  },
-  {
-    "revision": "27963220326d58157d1c78958d6e16df",
-    "url": "/avinash-react-portfolio/static/media/rpsMultiplayer.27963220.jpg"
   },
   {
     "revision": "eb8b0eb13f7de5313232190a08d84b0d",
