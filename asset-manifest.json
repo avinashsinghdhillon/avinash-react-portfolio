@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/avinash-react-portfolio/static/css/main.fe84c0c8.chunk.css",
+    "main.css": "/avinash-react-portfolio/static/css/main.e88571b0.chunk.css",
     "main.js": "/avinash-react-portfolio/static/js/main.5a3f1737.chunk.js",
     "main.js.map": "/avinash-react-portfolio/static/js/main.5a3f1737.chunk.js.map",
     "runtime-main.js": "/avinash-react-portfolio/static/js/runtime-main.f8f9db13.js",
@@ -8,9 +8,9 @@
     "static/js/2.6990802f.chunk.js": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js",
     "static/js/2.6990802f.chunk.js.map": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js.map",
     "index.html": "/avinash-react-portfolio/index.html",
-    "precache-manifest.6cada02a4b4858ebd70d8cd335e0bfe3.js": "/avinash-react-portfolio/precache-manifest.6cada02a4b4858ebd70d8cd335e0bfe3.js",
+    "precache-manifest.7c688c50796d558fe2bad560bf227248.js": "/avinash-react-portfolio/precache-manifest.7c688c50796d558fe2bad560bf227248.js",
     "service-worker.js": "/avinash-react-portfolio/service-worker.js",
-    "static/css/main.fe84c0c8.chunk.css.map": "/avinash-react-portfolio/static/css/main.fe84c0c8.chunk.css.map",
+    "static/css/main.e88571b0.chunk.css.map": "/avinash-react-portfolio/static/css/main.e88571b0.chunk.css.map",
     "static/js/2.6990802f.chunk.js.LICENSE": "/avinash-react-portfolio/static/js/2.6990802f.chunk.js.LICENSE",
     "static/media/AviPic.png": "/avinash-react-portfolio/static/media/AviPic.199968d7.png",
     "static/media/MemoryGame.JPG": "/avinash-react-portfolio/static/media/MemoryGame.f8faa4bf.JPG",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.f8f9db13.js",
     "static/js/2.6990802f.chunk.js",
-    "static/css/main.fe84c0c8.chunk.css",
+    "static/css/main.e88571b0.chunk.css",
     "static/js/main.5a3f1737.chunk.js"
   ]
 }
