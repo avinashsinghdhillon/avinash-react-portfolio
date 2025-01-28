@@ -16,22 +16,22 @@ export const About = () => {
 				</div>
 
 				<p className="contentText">
-					Meticulous Full-Stack Web Developer with 4 years of experience in
+					Meticulous Full-Stack Developer with 8 years of experience in
 					building innovative solutions. Motivated to produce polished products and
 					deliver client specific results. Holds a professional certification
-					in Full Stack Web Development from UT Austin.
+					in Full Stack Development from UT Austin.
 				</p>
 
 				<p className="contentText">
-					Currently working on developing a ReactJS application with a C# and MS SQL server 
-					backend that utilizes RESTful APIs and follows MVC design patterns.
+					Have worked on developing multiple ReactJS applications using C# and MS SQL server 
+					that utilizes RESTful APIs and follows MVC design patterns.
 				</p>
 
 				<p className="contentText">
-					Experienced in web technologies like Node.js, MongoDB, JavaScript, HTML5,
-					CSS, Bootstrap, Express and React.js (MERN stack). Comfortable with all
-					aspects of development from frontend to backend. Solid experience in C#, 
-					.NET, WinForms, MS SQL Server, SSRS, MS Access and XML technologies.
+					Experienced in technologies like C#, .NET, Node.js, React.js, JavaScript, HTML, CSS,
+					MongoDB, Bootstrap and Express (MERN stack). Comfortable with all
+					aspects of development from frontend to backend. Solid experience in
+					WinForms, MS SQL Server, SSRS, MS Access and XML technologies.
 				</p>
 
 				<p className="contentText">
